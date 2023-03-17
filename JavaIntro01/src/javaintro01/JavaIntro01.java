@@ -1,5 +1,7 @@
 package javaintro01;
 
+import java.util.Scanner;
+
 
 public class JavaIntro01 {
     
@@ -8,6 +10,7 @@ public class JavaIntro01 {
     public static void main(String[] args) {
         
             System.out.println("Hola mundo");
+            //Scanner leer = new Scanner(System.in);
 
         
         byte b=127 ;         System.out.println(b);
